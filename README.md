@@ -270,33 +270,3 @@ TradingPlatform/
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Gesamt: ~350-450 Code-Dateien (.h/.cpp)
-Core: 15-20 Dateien
-DataProviders: 30-40 Dateien
-Aggregation: 8-12 Dateien
-Indicators: 50-80 Dateien
-Strategies: 25-35 Dateien
-UI: 60-80 Dateien
-Rendering: 20-25 Dateien
-Network: 15-20 Dateien
-Database: 12-15 Dateien
-Analytics: 15-20 Dateien
-Testing: 10-15 Dateien
-
-
-
-
